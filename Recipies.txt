@@ -4,7 +4,6 @@ Welcome to learn git
 
 GitHub
 BitBucket
-
 GitLab
 
 
