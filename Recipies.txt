@@ -4,9 +4,9 @@ Welcome to learn git
 
 GitHub
 BitBucket
-
 GitLab
 
-
+Bucket
+React
 
 thank you :)
